@@ -3,7 +3,6 @@ import React from 'react';
 import { FiArrowRight } from 'react-icons/fi'
 import { Link } from 'react-router-dom'
 
-import '../styles/global.css'
 import '../styles/pages/landing.css'
 
 import logo_img from '../images/logo.svg'
@@ -24,7 +23,7 @@ function App() {
                     <span>Minas Gerais</span>
                 </div>
 
-                <Link to="/orfanatos" className="enter-app">
+                <Link to="/mapa" className="enter-app">
                     <FiArrowRight size={26} color="rgba(0, 0, 0, 0.6)" />
                 </Link>
            </div>
