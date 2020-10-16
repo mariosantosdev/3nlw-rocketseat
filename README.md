@@ -7,3 +7,6 @@ This application was created at [Next Level Week #3](https://nextlevelweek.com/)
 
     - Lesson 02 - Olhando as oportunidades
         * In this lesson, we created the backend of project using express.
+
+    - Lesson 03 - A escolha da stack
+        * In this lesson, we ending the frontend, make connection of backend with frontend
