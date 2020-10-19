@@ -13,3 +13,6 @@ This application was created at [Next Level Week #3](https://nextlevelweek.com/)
 
     - Lesson 04 - Até 2 anos em 2 meses
         * In this lesson, we create app using React Native with Expo, and create the map screen with routes.
+
+    - Lesson 05 - A milha extra
+        * In this lesson, we create the integration of application with backend.
