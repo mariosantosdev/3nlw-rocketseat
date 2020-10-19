@@ -51,8 +51,6 @@ export default function OrphanageData() {
 		api.post('orfanatos', data).then(() => {
 			alert('Orfanato criado.')
 			navigation.navigate('Map')
-		}).catch(res => {
-			console.log(res)
 		})
 	}
 
