@@ -9,4 +9,7 @@ This application was created at [Next Level Week #3](https://nextlevelweek.com/)
         * In this lesson, we created the backend of project using express.
 
     - Lesson 03 - A escolha da stack
-        * In this lesson, we ending the frontend, make connection of backend with frontend
+        * In this lesson, we ending the frontend, make connection of backend with frontend.
+
+    - Lesson 04 - Até 2 anos em 2 meses
+        * In this lesson, we create app using React Native with Expo, and create the map screen with routes.
