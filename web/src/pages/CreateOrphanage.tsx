@@ -55,7 +55,6 @@ export default function CreateOrphanage() {
 		})
 		.catch(res => {
 			alert('Ocorreu um erro ao cadastrar um orfanato.')
-			console.log(res);
 		})
 	}
 
